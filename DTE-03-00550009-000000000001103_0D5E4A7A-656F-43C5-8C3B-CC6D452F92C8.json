@@ -1,0 +1,129 @@
+﻿{
+  "identificacion": {
+    "version": 3,
+    "ambiente": "01",
+    "tipoDte": "03",
+    "numeroControl": "DTE-03-00550009-000000000001103",
+    "codigoGeneracion": "0D5E4A7A-656F-43C5-8C3B-CC6D452F92C8",
+    "tipoModelo": 1,
+    "tipoOperacion": 1,
+    "tipoContingencia": null,
+    "motivoContin": null,
+    "fecEmi": "2023-07-07",
+    "horEmi": "10:16:06",
+    "tipoMoneda": "USD"
+  },
+  "documentoRelacionado": null,
+  "emisor": {
+    "nit": "02101911710016",
+    "nrc": "27",
+    "nombre": "ALMACENES VIDRI S.A. DE C.V.",
+    "codActividad": "47522",
+    "descActividad": "Venta al por menor de artículos de ferretería",
+    "nombreComercial": "ALMACENES VIDRI S.A. DE C.V.",
+    "tipoEstablecimiento": "01",
+    "direccion": {
+      "departamento": "06",
+      "municipio": "17",
+      "complemento": "Calle a Tonacatepeque y ciudadela Don Bosco SOYAPANGO. SAN SALVADOR"
+    },
+    "telefono": "22923877",
+    "correo": "sac.facturacion@vidri.com.sv",
+    "codEstableMH": "0055",
+    "codEstable": "0055",
+    "codPuntoVentaMH": "0009",
+    "codPuntoVenta": "0009"
+  },
+  "receptor": {
+    "nit": "06091512711011",
+    "nrc": "2811507",
+    "nombre": "GARCIA COLOCHO, CARMEN MARIA",
+    "codActividad": "38302",
+    "descActividad": "RECICLAJE DE DESPERDICIOS Y DESECHOS DE PLASTICO Y CAUCHO",
+    "nombreComercial": "GARCIA COLOCHO, CARMEN MARIA",
+    "direccion": {
+      "departamento": "06",
+      "municipio": "17",
+      "complemento": "AV. ALABAM POLIG 79 4 SAN BARTOLO SOYAPANGO"
+    },
+    "telefono": "61527238",
+    "correo": "bycreciclando@gmail.com"
+  },
+  "otrosDocumentos": null,
+  "ventaTercero": null,
+  "cuerpoDocumento": [
+    {
+      "numItem": 1,
+      "tipoItem": 1,
+      "numeroDocumento": null,
+      "codigo": "14324",
+      "codTributo": null,
+      "descripcion": "TELA CEDAZO GALVANIZADA 50X50 36\" BWG33",
+      "cantidad": 10.0,
+      "uniMedida": 59,
+      "precioUni": 8.4071,
+      "montoDescu": 0.0,
+      "ventaNoSuj": 0.0,
+      "ventaExenta": 0.0,
+      "ventaGravada": 84.071,
+      "tributos": [
+        "20"
+      ],
+      "psv": 0.0,
+      "noGravado": 0.0
+    }
+  ],
+  "resumen": {
+    "totalNoSuj": 0.0,
+    "totalExenta": 0.0,
+    "totalGravada": 84.07,
+    "subTotalVentas": 84.07,
+    "descuNoSuj": 0.0,
+    "descuExenta": 0.0,
+    "descuGravada": 0.0,
+    "porcentajeDescuento": 0.0,
+    "totalDescu": 0.0,
+    "tributos": [
+      {
+        "codigo": "20",
+        "descripcion": "Impuesto al Valor Agregado 13%",
+        "valor": 10.93
+      }
+    ],
+    "subTotal": 84.07,
+    "ivaPerci1": 0.0,
+    "ivaRete1": 0.0,
+    "reteRenta": 0.0,
+    "montoTotalOperacion": 95.0,
+    "totalNoGravado": 0.0,
+    "totalPagar": 95.0,
+    "totalLetras": "NOVENTA Y CINCO DOLARES 00/100 USD",
+    "saldoFavor": 0.0,
+    "condicionOperacion": 1,
+    "pagos": null,
+    "numPagoElectronico": null
+  },
+  "extension": null,
+  "apendice": [
+    {
+      "campo": "sucursal",
+      "etiqueta": "Sucursal",
+      "valor": "SOYAPANGO"
+    },
+    {
+      "campo": "condicion_operacion",
+      "etiqueta": "Condicion de la operacion",
+      "valor": "CONTADO"
+    },
+    {
+      "campo": "vendedor",
+      "etiqueta": "Vendedor",
+      "valor": "6931"
+    },
+    {
+      "campo": "codigo_cxc",
+      "etiqueta": "Codigo CXC",
+      "valor": "0"
+    }
+  ]
+,"respuestaHacienda":{"version":2,"ambiente":"01","versionApp":"2","estado":"PROCESADO","codigoGeneracion":"0D5E4A7A-656F-43C5-8C3B-CC6D452F92C8","selloRecibido":"20232EA7EBF11A42465981BE896582F55613OORE","fhProcesamiento":"07/07/2023 10:25:11","clasificaMsg":"10","codigoMsg":"001","descripcionMsg":"RECIBIDO","observaciones":null}, "firma":"eyJhbGciOiJSUzUxMiJ9.ew0KICAiaWRlbnRpZmljYWNpb24iIDogew0KICAgICJ2ZXJzaW9uIiA6IDMsDQogICAgImFtYmllbnRlIiA6ICIwMSIsDQogICAgInRpcG9EdGUiIDogIjAzIiwNCiAgICAibnVtZXJvQ29udHJvbCIgOiAiRFRFLTAzLTAwNTUwMDA5LTAwMDAwMDAwMDAwMTEwMyIsDQogICAgImNvZGlnb0dlbmVyYWNpb24iIDogIjBENUU0QTdBLTY1NkYtNDNDNS04QzNCLUNDNkQ0NTJGOTJDOCIsDQogICAgInRpcG9Nb2RlbG8iIDogMSwNCiAgICAidGlwb09wZXJhY2lvbiIgOiAxLA0KICAgICJ0aXBvQ29udGluZ2VuY2lhIiA6IG51bGwsDQogICAgIm1vdGl2b0NvbnRpbiIgOiBudWxsLA0KICAgICJmZWNFbWkiIDogIjIwMjMtMDctMDciLA0KICAgICJob3JFbWkiIDogIjEwOjE2OjA2IiwNCiAgICAidGlwb01vbmVkYSIgOiAiVVNEIg0KICB9LA0KICAiZG9jdW1lbnRvUmVsYWNpb25hZG8iIDogbnVsbCwNCiAgImVtaXNvciIgOiB7DQogICAgIm5pdCIgOiAiMDIxMDE5MTE3MTAwMTYiLA0KICAgICJucmMiIDogIjI3IiwNCiAgICAibm9tYnJlIiA6ICJBTE1BQ0VORVMgVklEUkkgUy5BLiBERSBDLlYuIiwNCiAgICAiY29kQWN0aXZpZGFkIiA6ICI0NzUyMiIsDQogICAgImRlc2NBY3RpdmlkYWQiIDogIlZlbnRhIGFsIHBvciBtZW5vciBkZSBhcnTDrWN1bG9zIGRlIGZlcnJldGVyw61hIiwNCiAgICAibm9tYnJlQ29tZXJjaWFsIiA6ICJBTE1BQ0VORVMgVklEUkkgUy5BLiBERSBDLlYuIiwNCiAgICAidGlwb0VzdGFibGVjaW1pZW50byIgOiAiMDEiLA0KICAgICJkaXJlY2Npb24iIDogew0KICAgICAgImRlcGFydGFtZW50byIgOiAiMDYiLA0KICAgICAgIm11bmljaXBpbyIgOiAiMTciLA0KICAgICAgImNvbXBsZW1lbnRvIiA6ICJDYWxsZSBhIFRvbmFjYXRlcGVxdWUgeSBjaXVkYWRlbGEgRG9uIEJvc2NvIFNPWUFQQU5HTy4gU0FOIFNBTFZBRE9SIg0KICAgIH0sDQogICAgInRlbGVmb25vIiA6ICIyMjkyMzg3NyIsDQogICAgImNvcnJlbyIgOiAic2FjLmZhY3R1cmFjaW9uQHZpZHJpLmNvbS5zdiIsDQogICAgImNvZEVzdGFibGVNSCIgOiAiMDA1NSIsDQogICAgImNvZEVzdGFibGUiIDogIjAwNTUiLA0KICAgICJjb2RQdW50b1ZlbnRhTUgiIDogIjAwMDkiLA0KICAgICJjb2RQdW50b1ZlbnRhIiA6ICIwMDA5Ig0KICB9LA0KICAicmVjZXB0b3IiIDogew0KICAgICJuaXQiIDogIjA2MDkxNTEyNzExMDExIiwNCiAgICAibnJjIiA6ICIyODExNTA3IiwNCiAgICAibm9tYnJlIiA6ICJHQVJDSUEgQ09MT0NITywgQ0FSTUVOIE1BUklBIiwNCiAgICAiY29kQWN0aXZpZGFkIiA6ICIzODMwMiIsDQogICAgImRlc2NBY3RpdmlkYWQiIDogIlJFQ0lDTEFKRSBERSBERVNQRVJESUNJT1MgWSBERVNFQ0hPUyBERSBQTEFTVElDTyBZIENBVUNITyIsDQogICAgIm5vbWJyZUNvbWVyY2lhbCIgOiAiR0FSQ0lBIENPTE9DSE8sIENBUk1FTiBNQVJJQSIsDQogICAgImRpcmVjY2lvbiIgOiB7DQogICAgICAiZGVwYXJ0YW1lbnRvIiA6ICIwNiIsDQogICAgICAibXVuaWNpcGlvIiA6ICIxNyIsDQogICAgICAiY29tcGxlbWVudG8iIDogIkFWLiBBTEFCQU0gUE9MSUcgNzkgNCBTQU4gQkFSVE9MTyBTT1lBUEFOR08iDQogICAgfSwNCiAgICAidGVsZWZvbm8iIDogIjYxNTI3MjM4IiwNCiAgICAiY29ycmVvIiA6ICJieWNyZWNpY2xhbmRvQGdtYWlsLmNvbSINCiAgfSwNCiAgIm90cm9zRG9jdW1lbnRvcyIgOiBudWxsLA0KICAidmVudGFUZXJjZXJvIiA6IG51bGwsDQogICJjdWVycG9Eb2N1bWVudG8iIDogWyB7DQogICAgIm51bUl0ZW0iIDogMSwNCiAgICAidGlwb0l0ZW0iIDogMSwNCiAgICAibnVtZXJvRG9jdW1lbnRvIiA6IG51bGwsDQogICAgImNvZGlnbyIgOiAiMTQzMjQiLA0KICAgICJjb2RUcmlidXRvIiA6IG51bGwsDQogICAgImRlc2NyaXBjaW9uIiA6ICJURUxBIENFREFaTyBHQUxWQU5JWkFEQSA1MFg1MCAzNlwiIEJXRzMzIiwNCiAgICAiY2FudGlkYWQiIDogMTAuMCwNCiAgICAidW5pTWVkaWRhIiA6IDU5LA0KICAgICJwcmVjaW9VbmkiIDogOC40MDcxLA0KICAgICJtb250b0Rlc2N1IiA6IDAuMCwNCiAgICAidmVudGFOb1N1aiIgOiAwLjAsDQogICAgInZlbnRhRXhlbnRhIiA6IDAuMCwNCiAgICAidmVudGFHcmF2YWRhIiA6IDg0LjA3MSwNCiAgICAidHJpYnV0b3MiIDogWyAiMjAiIF0sDQogICAgInBzdiIgOiAwLjAsDQogICAgIm5vR3JhdmFkbyIgOiAwLjANCiAgfSBdLA0KICAicmVzdW1lbiIgOiB7DQogICAgInRvdGFsTm9TdWoiIDogMC4wLA0KICAgICJ0b3RhbEV4ZW50YSIgOiAwLjAsDQogICAgInRvdGFsR3JhdmFkYSIgOiA4NC4wNywNCiAgICAic3ViVG90YWxWZW50YXMiIDogODQuMDcsDQogICAgImRlc2N1Tm9TdWoiIDogMC4wLA0KICAgICJkZXNjdUV4ZW50YSIgOiAwLjAsDQogICAgImRlc2N1R3JhdmFkYSIgOiAwLjAsDQogICAgInBvcmNlbnRhamVEZXNjdWVudG8iIDogMC4wLA0KICAgICJ0b3RhbERlc2N1IiA6IDAuMCwNCiAgICAidHJpYnV0b3MiIDogWyB7DQogICAgICAiY29kaWdvIiA6ICIyMCIsDQogICAgICAiZGVzY3JpcGNpb24iIDogIkltcHVlc3RvIGFsIFZhbG9yIEFncmVnYWRvIDEzJSIsDQogICAgICAidmFsb3IiIDogMTAuOTMNCiAgICB9IF0sDQogICAgInN1YlRvdGFsIiA6IDg0LjA3LA0KICAgICJpdmFQZXJjaTEiIDogMC4wLA0KICAgICJpdmFSZXRlMSIgOiAwLjAsDQogICAgInJldGVSZW50YSIgOiAwLjAsDQogICAgIm1vbnRvVG90YWxPcGVyYWNpb24iIDogOTUuMCwNCiAgICAidG90YWxOb0dyYXZhZG8iIDogMC4wLA0KICAgICJ0b3RhbFBhZ2FyIiA6IDk1LjAsDQogICAgInRvdGFsTGV0cmFzIiA6ICJOT1ZFTlRBIFkgQ0lOQ08gRE9MQVJFUyAwMC8xMDAgVVNEIiwNCiAgICAic2FsZG9GYXZvciIgOiAwLjAsDQogICAgImNvbmRpY2lvbk9wZXJhY2lvbiIgOiAxLA0KICAgICJwYWdvcyIgOiBudWxsLA0KICAgICJudW1QYWdvRWxlY3Ryb25pY28iIDogbnVsbA0KICB9LA0KICAiZXh0ZW5zaW9uIiA6IG51bGwsDQogICJhcGVuZGljZSIgOiBbIHsNCiAgICAiY2FtcG8iIDogInN1Y3Vyc2FsIiwNCiAgICAiZXRpcXVldGEiIDogIlN1Y3Vyc2FsIiwNCiAgICAidmFsb3IiIDogIlNPWUFQQU5HTyINCiAgfSwgew0KICAgICJjYW1wbyIgOiAiY29uZGljaW9uX29wZXJhY2lvbiIsDQogICAgImV0aXF1ZXRhIiA6ICJDb25kaWNpb24gZGUgbGEgb3BlcmFjaW9uIiwNCiAgICAidmFsb3IiIDogIkNPTlRBRE8iDQogIH0sIHsNCiAgICAiY2FtcG8iIDogInZlbmRlZG9yIiwNCiAgICAiZXRpcXVldGEiIDogIlZlbmRlZG9yIiwNCiAgICAidmFsb3IiIDogIjY5MzEiDQogIH0sIHsNCiAgICAiY2FtcG8iIDogImNvZGlnb19jeGMiLA0KICAgICJldGlxdWV0YSIgOiAiQ29kaWdvIENYQyIsDQogICAgInZhbG9yIiA6ICIwIg0KICB9IF0NCn0.HqbNdjfjwNVH4DCNAOItCOfCDonFM2u2X4LtG3Aj-2qYtzTc1TWg0b4VeCuI5WP4Z1RsJA2n8TIjZEbVMBvDnxeIYVB0w_YNwTqqq--LioxXXpiR6zAWiBeX-Zs2ugFvCkyMn2_9wJMe_UHiaHPfkKBY7wgFXzhjiS3ij1T__a8xAdolcHRM_Zb3SazUYYGY1zG6UF-UHHIn9RtFqlEBnqXemruH55pR0O34A-BPU9_kyaBcY0Y5hFFVQSORoUw5AVEElsLafqDGTdx_Rro_7M1JW8R7H9UmN1UrpoJSw0dboJ_OrVzA9J0c4cFQJXZ1vUeS_fKbLGcrq6YW8fPPtA"}
