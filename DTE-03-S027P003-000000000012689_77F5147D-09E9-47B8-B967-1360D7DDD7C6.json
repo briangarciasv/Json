@@ -1,0 +1,134 @@
+﻿{
+  "identificacion": {
+    "version": 3,
+    "ambiente": "01",
+    "tipoDte": "03",
+    "numeroControl": "DTE-03-S027P003-000000000012689",
+    "codigoGeneracion": "77F5147D-09E9-47B8-B967-1360D7DDD7C6",
+    "tipoModelo": 1,
+    "tipoOperacion": 1,
+    "tipoContingencia": null,
+    "motivoContin": null,
+    "fecEmi": "2024-02-26",
+    "horEmi": "10:55:24",
+    "tipoMoneda": "USD"
+  },
+  "documentoRelacionado": null,
+  "emisor": {
+    "nit": "02101911710016",
+    "nrc": "27",
+    "nombre": "ALMACENES VIDRI S.A. DE C.V.",
+    "codActividad": "47522",
+    "descActividad": "Venta al por menor de artículos de ferretería",
+    "nombreComercial": "ALMACENES VIDRI S.A. DE C.V.",
+    "tipoEstablecimiento": "01",
+    "direccion": {
+      "departamento": "06",
+      "municipio": "17",
+      "complemento": "Calle a Tonacatepeque y ciudadela Don Bosco SOYAPANGO. SAN SALVADOR"
+    },
+    "telefono": "22923877",
+    "correo": "sac.facturacion@vidri.com.sv",
+    "codEstableMH": "0055",
+    "codEstable": "0055",
+    "codPuntoVentaMH": "0052",
+    "codPuntoVenta": "0052"
+  },
+  "receptor": {
+    "nit": "023262752",
+    "nrc": "2811507",
+    "nombre": "GARCIA COLOCHO, CARMEN MARIA",
+    "codActividad": "38302",
+    "descActividad": "RECICLAJE DE DESPERDICIOS Y DESECHOS DE PLASTICO Y CAUCHO",
+    "nombreComercial": "GARCIA COLOCHO, CARMEN MARIA",
+    "direccion": {
+      "departamento": "06",
+      "municipio": "17",
+      "complemento": "AV. ALABAM POLIG 79 4 SAN BARTOLO SOYAPANGO"
+    },
+    "telefono": "61527238",
+    "correo": "bycreciclando@gmail.com"
+  },
+  "otrosDocumentos": null,
+  "ventaTercero": null,
+  "cuerpoDocumento": [
+    {
+      "numItem": 1,
+      "tipoItem": 1,
+      "numeroDocumento": null,
+      "codigo": "7567",
+      "codTributo": null,
+      "descripcion": "HIERRO ANGULO 3MM X1.1/2\"",
+      "cantidad": 1.0,
+      "uniMedida": 59,
+      "precioUni": 11.4159,
+      "montoDescu": 0.0,
+      "ventaNoSuj": 0.0,
+      "ventaExenta": 0.0,
+      "ventaGravada": 11.4159,
+      "tributos": [
+        "20"
+      ],
+      "psv": 0.0,
+      "noGravado": 0.0
+    }
+  ],
+  "resumen": {
+    "totalNoSuj": 0.0,
+    "totalExenta": 0.0,
+    "totalGravada": 11.42,
+    "subTotalVentas": 11.42,
+    "descuNoSuj": 0.0,
+    "descuExenta": 0.0,
+    "descuGravada": 0.0,
+    "porcentajeDescuento": 0.0,
+    "totalDescu": 0.0,
+    "tributos": [
+      {
+        "codigo": "20",
+        "descripcion": "Impuesto al Valor Agregado 13%",
+        "valor": 1.48
+      }
+    ],
+    "subTotal": 11.42,
+    "ivaPerci1": 0.0,
+    "ivaRete1": 0.0,
+    "reteRenta": 0.0,
+    "montoTotalOperacion": 12.9,
+    "totalNoGravado": 0.0,
+    "totalPagar": 12.9,
+    "totalLetras": "DOCE DOLARES 90/100 USD",
+    "saldoFavor": 0.0,
+    "condicionOperacion": 1,
+    "pagos": null,
+    "numPagoElectronico": null
+  },
+  "extension": null,
+  "apendice": [
+    {
+      "campo": "sucursal",
+      "etiqueta": "Sucursal",
+      "valor": "SOYAPANGO"
+    },
+    {
+      "campo": "condicion_operacion",
+      "etiqueta": "Condicion de la operacion",
+      "valor": "CONTADO"
+    },
+    {
+      "campo": "codigo_interno",
+      "etiqueta": "Numero de Control Vidri",
+      "valor": "046A012689"
+    },
+    {
+      "campo": "vendedor",
+      "etiqueta": "Vendedor",
+      "valor": "0000S55"
+    },
+    {
+      "campo": "codigo_cxc",
+      "etiqueta": "Codigo CXC",
+      "valor": "C00022975"
+    }
+  ]
+,"respuestaHacienda":{"version":2,"ambiente":"01","versionApp":"2","estado":"PROCESADO","codigoGeneracion":"77F5147D-09E9-47B8-B967-1360D7DDD7C6","selloRecibido":"2024F6787C9274AA47D485215567BC49E6C8AFUN","fhProcesamiento":"26/02/2024 11:34:58","clasificaMsg":"10","codigoMsg":"001","descripcionMsg":"RECIBIDO","observaciones":null}, "firma":"eyJhbGciOiJSUzUxMiJ9.ew0KICAiaWRlbnRpZmljYWNpb24iIDogew0KICAgICJ2ZXJzaW9uIiA6IDMsDQogICAgImFtYmllbnRlIiA6ICIwMSIsDQogICAgInRpcG9EdGUiIDogIjAzIiwNCiAgICAibnVtZXJvQ29udHJvbCIgOiAiRFRFLTAzLVMwMjdQMDAzLTAwMDAwMDAwMDAxMjY4OSIsDQogICAgImNvZGlnb0dlbmVyYWNpb24iIDogIjc3RjUxNDdELTA5RTktNDdCOC1COTY3LTEzNjBEN0RERDdDNiIsDQogICAgInRpcG9Nb2RlbG8iIDogMSwNCiAgICAidGlwb09wZXJhY2lvbiIgOiAxLA0KICAgICJ0aXBvQ29udGluZ2VuY2lhIiA6IG51bGwsDQogICAgIm1vdGl2b0NvbnRpbiIgOiBudWxsLA0KICAgICJmZWNFbWkiIDogIjIwMjQtMDItMjYiLA0KICAgICJob3JFbWkiIDogIjEwOjU1OjI0IiwNCiAgICAidGlwb01vbmVkYSIgOiAiVVNEIg0KICB9LA0KICAiZG9jdW1lbnRvUmVsYWNpb25hZG8iIDogbnVsbCwNCiAgImVtaXNvciIgOiB7DQogICAgIm5pdCIgOiAiMDIxMDE5MTE3MTAwMTYiLA0KICAgICJucmMiIDogIjI3IiwNCiAgICAibm9tYnJlIiA6ICJBTE1BQ0VORVMgVklEUkkgUy5BLiBERSBDLlYuIiwNCiAgICAiY29kQWN0aXZpZGFkIiA6ICI0NzUyMiIsDQogICAgImRlc2NBY3RpdmlkYWQiIDogIlZlbnRhIGFsIHBvciBtZW5vciBkZSBhcnTDrWN1bG9zIGRlIGZlcnJldGVyw61hIiwNCiAgICAibm9tYnJlQ29tZXJjaWFsIiA6ICJBTE1BQ0VORVMgVklEUkkgUy5BLiBERSBDLlYuIiwNCiAgICAidGlwb0VzdGFibGVjaW1pZW50byIgOiAiMDEiLA0KICAgICJkaXJlY2Npb24iIDogew0KICAgICAgImRlcGFydGFtZW50byIgOiAiMDYiLA0KICAgICAgIm11bmljaXBpbyIgOiAiMTciLA0KICAgICAgImNvbXBsZW1lbnRvIiA6ICJDYWxsZSBhIFRvbmFjYXRlcGVxdWUgeSBjaXVkYWRlbGEgRG9uIEJvc2NvIFNPWUFQQU5HTy4gU0FOIFNBTFZBRE9SIg0KICAgIH0sDQogICAgInRlbGVmb25vIiA6ICIyMjkyMzg3NyIsDQogICAgImNvcnJlbyIgOiAic2FjLmZhY3R1cmFjaW9uQHZpZHJpLmNvbS5zdiIsDQogICAgImNvZEVzdGFibGVNSCIgOiAiMDA1NSIsDQogICAgImNvZEVzdGFibGUiIDogIjAwNTUiLA0KICAgICJjb2RQdW50b1ZlbnRhTUgiIDogIjAwNTIiLA0KICAgICJjb2RQdW50b1ZlbnRhIiA6ICIwMDUyIg0KICB9LA0KICAicmVjZXB0b3IiIDogew0KICAgICJuaXQiIDogIjAyMzI2Mjc1MiIsDQogICAgIm5yYyIgOiAiMjgxMTUwNyIsDQogICAgIm5vbWJyZSIgOiAiR0FSQ0lBIENPTE9DSE8sIENBUk1FTiBNQVJJQSIsDQogICAgImNvZEFjdGl2aWRhZCIgOiAiMzgzMDIiLA0KICAgICJkZXNjQWN0aXZpZGFkIiA6ICJSRUNJQ0xBSkUgREUgREVTUEVSRElDSU9TIFkgREVTRUNIT1MgREUgUExBU1RJQ08gWSBDQVVDSE8iLA0KICAgICJub21icmVDb21lcmNpYWwiIDogIkdBUkNJQSBDT0xPQ0hPLCBDQVJNRU4gTUFSSUEiLA0KICAgICJkaXJlY2Npb24iIDogew0KICAgICAgImRlcGFydGFtZW50byIgOiAiMDYiLA0KICAgICAgIm11bmljaXBpbyIgOiAiMTciLA0KICAgICAgImNvbXBsZW1lbnRvIiA6ICJBVi4gQUxBQkFNIFBPTElHIDc5IDQgU0FOIEJBUlRPTE8gU09ZQVBBTkdPIg0KICAgIH0sDQogICAgInRlbGVmb25vIiA6ICI2MTUyNzIzOCIsDQogICAgImNvcnJlbyIgOiAiYnljcmVjaWNsYW5kb0BnbWFpbC5jb20iDQogIH0sDQogICJvdHJvc0RvY3VtZW50b3MiIDogbnVsbCwNCiAgInZlbnRhVGVyY2VybyIgOiBudWxsLA0KICAiY3VlcnBvRG9jdW1lbnRvIiA6IFsgew0KICAgICJudW1JdGVtIiA6IDEsDQogICAgInRpcG9JdGVtIiA6IDEsDQogICAgIm51bWVyb0RvY3VtZW50byIgOiBudWxsLA0KICAgICJjb2RpZ28iIDogIjc1NjciLA0KICAgICJjb2RUcmlidXRvIiA6IG51bGwsDQogICAgImRlc2NyaXBjaW9uIiA6ICJISUVSUk8gQU5HVUxPIDNNTSBYMS4xLzJcIiIsDQogICAgImNhbnRpZGFkIiA6IDEuMCwNCiAgICAidW5pTWVkaWRhIiA6IDU5LA0KICAgICJwcmVjaW9VbmkiIDogMTEuNDE1OSwNCiAgICAibW9udG9EZXNjdSIgOiAwLjAsDQogICAgInZlbnRhTm9TdWoiIDogMC4wLA0KICAgICJ2ZW50YUV4ZW50YSIgOiAwLjAsDQogICAgInZlbnRhR3JhdmFkYSIgOiAxMS40MTU5LA0KICAgICJ0cmlidXRvcyIgOiBbICIyMCIgXSwNCiAgICAicHN2IiA6IDAuMCwNCiAgICAibm9HcmF2YWRvIiA6IDAuMA0KICB9IF0sDQogICJyZXN1bWVuIiA6IHsNCiAgICAidG90YWxOb1N1aiIgOiAwLjAsDQogICAgInRvdGFsRXhlbnRhIiA6IDAuMCwNCiAgICAidG90YWxHcmF2YWRhIiA6IDExLjQyLA0KICAgICJzdWJUb3RhbFZlbnRhcyIgOiAxMS40MiwNCiAgICAiZGVzY3VOb1N1aiIgOiAwLjAsDQogICAgImRlc2N1RXhlbnRhIiA6IDAuMCwNCiAgICAiZGVzY3VHcmF2YWRhIiA6IDAuMCwNCiAgICAicG9yY2VudGFqZURlc2N1ZW50byIgOiAwLjAsDQogICAgInRvdGFsRGVzY3UiIDogMC4wLA0KICAgICJ0cmlidXRvcyIgOiBbIHsNCiAgICAgICJjb2RpZ28iIDogIjIwIiwNCiAgICAgICJkZXNjcmlwY2lvbiIgOiAiSW1wdWVzdG8gYWwgVmFsb3IgQWdyZWdhZG8gMTMlIiwNCiAgICAgICJ2YWxvciIgOiAxLjQ4DQogICAgfSBdLA0KICAgICJzdWJUb3RhbCIgOiAxMS40MiwNCiAgICAiaXZhUGVyY2kxIiA6IDAuMCwNCiAgICAiaXZhUmV0ZTEiIDogMC4wLA0KICAgICJyZXRlUmVudGEiIDogMC4wLA0KICAgICJtb250b1RvdGFsT3BlcmFjaW9uIiA6IDEyLjksDQogICAgInRvdGFsTm9HcmF2YWRvIiA6IDAuMCwNCiAgICAidG90YWxQYWdhciIgOiAxMi45LA0KICAgICJ0b3RhbExldHJhcyIgOiAiRE9DRSBET0xBUkVTIDkwLzEwMCBVU0QiLA0KICAgICJzYWxkb0Zhdm9yIiA6IDAuMCwNCiAgICAiY29uZGljaW9uT3BlcmFjaW9uIiA6IDEsDQogICAgInBhZ29zIiA6IG51bGwsDQogICAgIm51bVBhZ29FbGVjdHJvbmljbyIgOiBudWxsDQogIH0sDQogICJleHRlbnNpb24iIDogbnVsbCwNCiAgImFwZW5kaWNlIiA6IFsgew0KICAgICJjYW1wbyIgOiAic3VjdXJzYWwiLA0KICAgICJldGlxdWV0YSIgOiAiU3VjdXJzYWwiLA0KICAgICJ2YWxvciIgOiAiU09ZQVBBTkdPIg0KICB9LCB7DQogICAgImNhbXBvIiA6ICJjb25kaWNpb25fb3BlcmFjaW9uIiwNCiAgICAiZXRpcXVldGEiIDogIkNvbmRpY2lvbiBkZSBsYSBvcGVyYWNpb24iLA0KICAgICJ2YWxvciIgOiAiQ09OVEFETyINCiAgfSwgew0KICAgICJjYW1wbyIgOiAiY29kaWdvX2ludGVybm8iLA0KICAgICJldGlxdWV0YSIgOiAiTnVtZXJvIGRlIENvbnRyb2wgVmlkcmkiLA0KICAgICJ2YWxvciIgOiAiMDQ2QTAxMjY4OSINCiAgfSwgew0KICAgICJjYW1wbyIgOiAidmVuZGVkb3IiLA0KICAgICJldGlxdWV0YSIgOiAiVmVuZGVkb3IiLA0KICAgICJ2YWxvciIgOiAiMDAwMFM1NSINCiAgfSwgew0KICAgICJjYW1wbyIgOiAiY29kaWdvX2N4YyIsDQogICAgImV0aXF1ZXRhIiA6ICJDb2RpZ28gQ1hDIiwNCiAgICAidmFsb3IiIDogIkMwMDAyMjk3NSINCiAgfSBdDQp9.f7_-CTpjo6W2CkKh9wTYp68cUWqjw2wX9AJelzksdLdnSGGzXODrkLj9NYpxlkEPBLKuy-amlm-88nriffptxSRFLGZE-XdpTNQnV52h_aG2MSqM2iQiApD6geS2Iwrkha4FMQyi5Yy6tjHCjDnblNYpFZWoPl805j3jlgv0yBWt34khsMHJReiMhbqygnxhk6LgOTQJS9BWE_h7WPiWIiMEbqQsF4m-1R_fk-8p4MIM_3kZvDONmiMxwVykiOLU1DXEAvbBxJzKfTRQfgupc9ftDRNnBamlUXYLpHFBawqfBM6qBPYNsdwcaUlEX7k8wi0_J387d5PyL40h6B5uDQ"}
